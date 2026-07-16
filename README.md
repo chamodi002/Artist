@@ -61,3 +61,39 @@ The frontend application is developed separately using **Next.js**.
 # API Documentation
 
 FastAPI provides interactive API documentation:
+Swagger UI:
+http://localhost:8000/docs
+
+
+---
+
+# Technology Stack
+
+## Backend
+
+- Python
+- FastAPI
+- Pydantic
+- Uvicorn
+
+---
+
+## Database
+
+- MongoDB Atlas
+- Motor (Async MongoDB Driver)
+
+---
+
+## Authentication & Security
+
+- JWT Authentication
+- Password Hashing
+
+---
+
+## Development & Deployment
+
+- Docker
+- Docker Compose
+- Git & GitHub
